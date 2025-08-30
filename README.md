@@ -1,5 +1,3 @@
-**This is a Better Discord CSS theme, not my original work because 
-I can't code for shit lol, but I *am* smart enough to modify stuff**
+A theme based off of the pretty everforest colour pallete for BetterDiscord. feel free to use :D
 
-**I made some changes to someone elses theme.css file to match 
-personal preference, if you wanna use it. :3**
+To install, download the source code and find thing_you_gotta_download.theme.css, and move it to better discord's theme folder.
