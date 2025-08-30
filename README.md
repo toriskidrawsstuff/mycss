@@ -9,7 +9,7 @@ css file in your betterdiscord themes xD**
 
 
 
-/**
+```/**
  * @name system24 (everforest)
  * @description a tui-style discord theme.
  * @author refact0r, mild contributions by Toriski
@@ -170,3 +170,4 @@ body {
     --purple-4: oklch(0.57 0.0818 349.18);
     --purple-5: var(--red-5);
 }
+```
