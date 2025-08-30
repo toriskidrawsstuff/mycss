@@ -1,10 +1,10 @@
 **This is a Better Discord CSS theme, not my original work because 
-I can't code for shit lol, but I *am* smart enough to modify stuff
+I can't code for shit lol, but I *am* smart enough to modify stuff**
 
-I made some changes to someone elses theme.css file to match 
-personal preference, if you wanna use it. :3
+**I made some changes to someone elses theme.css file to match 
+personal preference, if you wanna use it. :3**
 
-if I messed up the files somehow just copy this into some random 
+**if I messed up the files somehow just copy this into some random 
 css file in your betterdiscord themes xD**
 
 
