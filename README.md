@@ -1,3 +1,9 @@
+the heck did i even change???
+
+I changed the css to match my personal preferences if u wanna use it
+
+
+
 
 <img src="https://github.com/refact0r/system24/raw/main/assets/preview.png">
 
